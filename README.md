@@ -17,10 +17,6 @@ Due to Android's security model, apps cannot directly toggle Bluetooth programma
 - Provides direct navigation to system Bluetooth settings for deactivation
 - Monitors and displays Bluetooth state changes in real-time
 
-## Screenshots
-
-[Place screenshots here]
-
 ## Prerequisites
 
 - Node.js >= 18
